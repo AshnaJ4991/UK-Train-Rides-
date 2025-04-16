@@ -43,4 +43,4 @@ Reduce delays and improve planning
 Optimize ticketing systems and marketing
 
 🔖 Tags
-#DataScience #Python #RailwayAnalytics #TicketPricing #DelayAnalysis #IQR #EDA #Seaborn #Matplotlib #RealWorldData
+#DataScience #Python #RailwayAnalytics #TicketPricing #DelayAnalysis #IQR #Seaborn #Matplotlib #RealWorldData #EDA
